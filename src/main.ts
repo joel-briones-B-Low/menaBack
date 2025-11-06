@@ -9,6 +9,7 @@ async function bootstrap() {
     origin: [
       'http://localhost:5173',
       'http://localhost:3000',
+      'https://ventasmena.netlify.app',
     ],
     credentials: true,
   });
